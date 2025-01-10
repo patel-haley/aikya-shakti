@@ -1,1 +1,1 @@
-# Aikya-Shakti
+# Aikya's Shakti
