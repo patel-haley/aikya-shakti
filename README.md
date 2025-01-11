@@ -1,5 +1,5 @@
 # Aikya's Shakti
 
-Aikya is a designed space settlement that orbits Ganymede, made to hold human civailization. When designing Aikya, one major concern was posed: How will humans adjust to life there? This brought me to develop Shakti. 
+Aikya is a designed space settlement that orbits Ganymede and is made to hold human civilization. When designing Aikya, one primary concern was posed: How will humans adjust to life there? This brought me to develop Shakti.
 
-"Shakti" meaning power in Sanskrit, is a mental health chatbot made for Aikya's residents to seek emotional support and guidance. Shakti is prompted by Aikyans and returns a crafted response based on the user's needs. A simple user-interface is built for high-functionality.
+"Shakti," meaning power in Sanskrit, is a mental health chatbot made to help Aikya's residents seek emotional support and guidance. Aikyans prompt Shakti and return a crafted response based on the user's needs. A simple user interface is built for high functionality.
