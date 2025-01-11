@@ -7,3 +7,6 @@ Aikya is a designed space settlement that orbits Ganymede and is made to hold hu
 
 Awards:
 - National Space Society (NSS) Grade 12 Third Prize (out of 29,000 participants) in 2024
+
+Developed: Dec 2023 - Jan 2024
+Updates: Jan 2025
