@@ -7,5 +7,5 @@ Developed as a research project, Aikya is a space settlement that orbits Ganymed
 
 
 Awards:
-- 2024 NASA/National Space Society (NSS) Third Prize (out of 29,000 participants)
+- 2024 NASA/National Space Society (NSS) International Space Contest Third Prize (out of 29,000 participants)
 
