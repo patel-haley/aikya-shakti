@@ -1,4 +1,5 @@
 # Aikya's Shakti
+<img width="1634" height="896" alt="image" src="https://github.com/user-attachments/assets/d4feb321-7068-47de-935a-4c924a72b968" />
 
 Aikya is a designed space settlement that orbits Ganymede and is made to hold human civilization. When designing Aikya, one primary concern was posed: How will humans adjust to life there? This brought me to develop Shakti.
 
